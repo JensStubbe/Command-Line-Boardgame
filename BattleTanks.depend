@@ -1,0 +1,145 @@
+# depslib dependency file v1.0
+1503332548 source:c:\users\jens\workspace\vives\oop\oop c++\projects\battletanks\main.cpp
+	<string>
+	<iostream>
+	<process.h>
+	<cstdlib>
+	<time.h>
+	<Game_engine.h>
+	"Board.h"
+
+1503333771 source:c:\users\jens\workspace\vives\oop\oop c++\projects\battletanks\src\board.cpp
+	"Board.h"
+	<iostream>
+
+1503333716 c:\users\jens\workspace\vives\oop\oop c++\projects\battletanks\include\board.h
+	<iostream>
+
+1503336437 source:c:\users\jens\workspace\vives\oop\oop c++\projects\battletanks\src\base_player_class.cpp
+	"Base_Player_Class.h"
+
+1503336473 c:\users\jens\workspace\vives\oop\oop c++\projects\battletanks\include\base_player_class.h
+	"Board.h"
+	"Tank_array.h"
+
+1503333989 source:c:\users\jens\workspace\vives\oop\oop c++\projects\battletanks\src\game_engine.cpp
+	"Game_engine.h"
+	<iostream>
+	<stdlib.h>
+
+1503333980 c:\users\jens\workspace\vives\oop\oop c++\projects\battletanks\include\game_engine.h
+	"player.h"
+	"NPC.h"
+	"Tank.h"
+	"Projectile.h"
+
+1503336349 c:\users\jens\workspace\vives\oop\oop c++\projects\battletanks\include\player.h
+	"Board.h"
+	"Tank_array.h"
+	"Base_Player_Class.h"
+	<vector>
+
+1503327454 c:\users\jens\workspace\vives\oop\oop c++\projects\battletanks\include\tank_array.h
+	"Tank.h"
+	<vector>
+
+1503271558 c:\users\jens\workspace\vives\oop\oop c++\projects\battletanks\include\tank.h
+	"Projectile.h"
+
+1503264583 c:\users\jens\workspace\vives\oop\oop c++\projects\battletanks\include\projectile.h
+
+1503336334 c:\users\jens\workspace\vives\oop\oop c++\projects\battletanks\include\npc.h
+	"Board.h"
+	"Tank_array.h"
+	"Base_Player_Class.h"
+
+1503336019 source:c:\users\jens\workspace\vives\oop\oop c++\projects\battletanks\src\npc.cpp
+	"NPC.h"
+	<stdlib.h>
+
+1503336058 source:c:\users\jens\workspace\vives\oop\oop c++\projects\battletanks\src\player.cpp
+	"player.h"
+
+1503261077 source:c:\users\jens\workspace\vives\oop\oop c++\projects\battletanks\src\projectile.cpp
+	"Projectile.h"
+
+1503326941 source:c:\users\jens\workspace\vives\oop\oop c++\projects\battletanks\src\tank.cpp
+	"Tank.h"
+	<iostream>
+
+1503327404 source:c:\users\jens\workspace\vives\oop\oop c++\projects\battletanks\src\tank_array.cpp
+	"Tank_array.h"
+	<iostream>
+
+1503410135 source:c:\users\jens\downloads\battletanks-master\main.cpp
+	<string>
+	<iostream>
+	<process.h>
+	<cstdlib>
+	<time.h>
+	<Game_engine.h>
+	"Board.h"
+
+1503410217 c:\users\jens\downloads\battletanks-master\include\game_engine.h
+	"player.h"
+	"NPC.h"
+	"Tank.h"
+	"Projectile.h"
+
+1503336982 c:\users\jens\downloads\battletanks-master\include\player.h
+	"Board.h"
+	"Tank_array.h"
+	"Base_Player_Class.h"
+	<vector>
+
+1503336982 c:\users\jens\downloads\battletanks-master\include\board.h
+	<iostream>
+
+1503336982 c:\users\jens\downloads\battletanks-master\include\tank_array.h
+	"Tank.h"
+	<vector>
+
+1503336982 c:\users\jens\downloads\battletanks-master\include\tank.h
+	"Projectile.h"
+
+1503336982 c:\users\jens\downloads\battletanks-master\include\projectile.h
+
+1503336982 c:\users\jens\downloads\battletanks-master\include\base_player_class.h
+	"Board.h"
+	"Tank_array.h"
+
+1503336982 c:\users\jens\downloads\battletanks-master\include\npc.h
+	"Board.h"
+	"Tank_array.h"
+	"Base_Player_Class.h"
+
+1503336982 source:c:\users\jens\downloads\battletanks-master\src\base_player_class.cpp
+	"Base_Player_Class.h"
+
+1503336982 source:c:\users\jens\downloads\battletanks-master\src\board.cpp
+	"Board.h"
+	<iostream>
+
+1503410349 source:c:\users\jens\downloads\battletanks-master\src\game_engine.cpp
+	"Game_engine.h"
+	<iostream>
+	<stdlib.h>
+
+1503410302 source:c:\users\jens\downloads\battletanks-master\src\npc.cpp
+	"NPC.h"
+	<stdlib.h>
+
+1503336982 source:c:\users\jens\downloads\battletanks-master\src\player.cpp
+	"player.h"
+
+1503336982 source:c:\users\jens\downloads\battletanks-master\src\projectile.cpp
+	"Projectile.h"
+
+1503336982 source:c:\users\jens\downloads\battletanks-master\src\tank.cpp
+	"Tank.h"
+	<iostream>
+
+1503336982 source:c:\users\jens\downloads\battletanks-master\src\tank_array.cpp
+	"Tank_array.h"
+	<iostream>
+
